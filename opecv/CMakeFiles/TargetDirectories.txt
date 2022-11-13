@@ -1,0 +1,3 @@
+/home/gilbert/Desktop/cpp/opecv/CMakeFiles/rebuild_cache.dir
+/home/gilbert/Desktop/cpp/opecv/CMakeFiles/edit_cache.dir
+/home/gilbert/Desktop/cpp/opecv/CMakeFiles/DisplayImage.dir
